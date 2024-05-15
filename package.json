@@ -1,0 +1,31 @@
+{
+  "name": "desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "---\r ![Languages used](https://img.shields.io/github/languages/count/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)\r ![Repository size](https://img.shields.io/github/repo-size/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)\r ![Last commit](https://img.shields.io/github/last-commit/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "node --watch ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Error 404: Team Name Not Found",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1594.0",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "handlebars": "^4.7.8",
+    "joi": "^17.12.2",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^3.1.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.13",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
