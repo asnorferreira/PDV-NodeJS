@@ -2,9 +2,9 @@
 
 ---
 
-![Languages used](https://img.shields.io/github/languages/count/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)
-![Repository size](https://img.shields.io/github/repo-size/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/asnorferreira/desafio-backend-modulo-05-sistema-pdv-dds-t14-dbe-t05?style=flat-square)
+![Languages used](https://img.shields.io/github/languages/count/asnorferreira/PDV-NodeJs?style=flat-square)
+![Repository size](https://img.shields.io/github/repo-size/asnorferreira/PDV-NodeJs?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/asnorferreira/PDV-NodeJs?style=flat-square)
 
 ## Introdução
 
